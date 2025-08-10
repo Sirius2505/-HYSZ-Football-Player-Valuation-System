@@ -72,7 +72,7 @@ To run the applications, simply clone this repository and open any of the HTML f
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Sirius2505/-HYSZ-Football-Player-Valuation-System.git
 cd your-repository-name
 open football.html
 🤝 Contributing
