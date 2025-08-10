@@ -80,3 +80,22 @@ Contributions, issues, and feature requests are always welcome! Feel free to for
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
+
+
+<img width="1901" height="702" alt="Ekran görüntüsü 2025-08-10 144046" src="https://github.com/user-attachments/assets/e9bfcf91-996e-4a41-a8dd-19e6a0ed0c59" />
+
+
+
+<img width="1884" height="713" alt="Ekran görüntüsü 2025-08-10 144107" src="https://github.com/user-attachments/assets/e656cc00-87c2-4727-a25d-af919d646e55" />
+
+
+
+<img width="1895" height="708" alt="Ekran görüntüsü 2025-08-10 144128" src="https://github.com/user-attachments/assets/9941df19-3008-443c-a8f9-9c7bb34fc681" />
+
+
+
+<img width="1887" height="683" alt="Ekran görüntüsü 2025-08-10 144135" src="https://github.com/user-attachments/assets/992232a0-e446-442c-b279-3932c823ca9b" />
+
+
+
+
